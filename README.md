@@ -1,5 +1,5 @@
 # ReactNative
- React Native Course code challenges and work
+ React Native code challenges and work for the course -> https://www.udemy.com/course/react-native-fh
 
 - 01-react-foundation
   - React Basis
