@@ -7,3 +7,9 @@
   - basic state management with zustand
   - basic react-hook-form
   - basic axios API call
+
+- 02-myFirstApp
+  - React native basis
+  - React native paper install - basic usage
+  - React native vector icons install - basic usage
+  - Icons config on android and Ios
