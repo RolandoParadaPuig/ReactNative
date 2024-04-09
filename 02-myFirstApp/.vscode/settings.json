@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "eslint.format.enable": true,
+  "prettier.bracketSpacing": false,
+  "eslint.run": "onSave"
+}

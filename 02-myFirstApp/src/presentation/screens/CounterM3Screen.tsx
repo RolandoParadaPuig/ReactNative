@@ -11,7 +11,7 @@ export const CounterM3Screen = () => {
     setNumber(state => state + num);
   };
   const onReset = () => {
-    setNumber(0);
+    setNumber(10);
   };
   return (
     <View style={GlobalStyles.centerContainer}>
