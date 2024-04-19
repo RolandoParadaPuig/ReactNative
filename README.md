@@ -27,3 +27,14 @@
   - Bottom tab navigation
   - Material top tab navigation
   - Icons instalation and usage (ionIcons)
+
+- 05-contextApp
+  - Context basis
+  - Zustand basis
+
+- 06-moviesApp
+  - React-native-navigation
+  - API calls with axios
+  - Generic types 
+  - use cases
+  - software architecture
